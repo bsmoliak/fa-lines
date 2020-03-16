@@ -10,18 +10,16 @@ An algorithm to predict flight attendant line assignments from bids
 ## Installation
 
   1. Once Miniconda is installed and the `fa-lines` repository is cloned locally,
-     create a new conda environment for it::
+     create a new conda environment for it:
      
      `conda env create -f environment.yml`
      
-  2. Activate the conda environment::
+  2. Activate the conda environment:
   
      `conda activate fa-lines`
      
-  3. Run Jupyter Lab::
+  3. Run Jupyter Lab:
   
      `jupyter lab`
      
-  4. Open `bids.ipynb`
-  
-  5. Click the *Play* button in the toolbar.
+  4. Navigate to the notebook directory and open an existing Jupyter notebook.
