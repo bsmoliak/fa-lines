@@ -1,0 +1,13 @@
+name: fa-lines
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - pip
+  - numpy
+  - pandas
+  - ipython
+  - jupyterlab
+  - pip:
+    - pdftotext
